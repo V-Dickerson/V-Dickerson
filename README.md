@@ -1,16 +1,14 @@
-## Hi there 👋
+# ‍💫 Vanessa Dickerson ‍💫
+## 💻 Software Engineering Intern @ Torres & Associates LLC | 🎓 CS + Statistics Minor | Class of 2026 @ Texas A&M | 🏳️‍🌈 O4U Digital & oSTEM National 2024
 
-<!--
-**V-Dickerson/V-Dickerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a Computer Science student at Texas A&M minoring in statistics. I'm passionate about:
+* 🖤 Software that **helps people** interface easier with the world,
+* 🌐 **Open source** development practices, and
+* 🤝 **Diversity, Equity, and Inclusion** in STEM.
 
-Here are some ideas to get you started:
+I look to develop software that I'm **passionate about**, either due to the **impacts it can have on the world** or the **lessons and skills** that I can gain from it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also, I'm more than just a software engineer 😊 I'm:
+* 🎥 Into **niche and underrated movies & shows**,
+* ✊ Involved in **activism in my local community** and university, and
+* 🍳 Trying to figure out how to cook as a busy and occasionally lazy college student.
