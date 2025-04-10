@@ -21,11 +21,11 @@
 title: Vanessa Codes
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-   	Howdy! I'm Vanessa Dickerson, a junior majoring in computer science and minoring 
-    in statistics at Texas A&M University. I currently work in software engineering 
-    at a civil engineering firm. I'm passionate about serving and advocating for my 
-    community, developing new and innovative solutions to unsolved problems, and 
-    optimizing my life. 
+  Howdy! I'm Vanessa Dickerson, a junior majoring in computer science and minoring 
+  in statistics at Texas A&M University. I currently work in software engineering 
+  at a civil engineering firm. I'm passionate about serving and advocating for my 
+  community, developing new and innovative solutions to unsolved problems, and 
+  optimizing my life. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vanessacodes.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
