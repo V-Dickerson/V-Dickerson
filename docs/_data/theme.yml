@@ -1,0 +1,54 @@
+skin: night
+
+# Theme Text
+t:
+  skip_links: "Skip links"
+  skip_primary_nav: "Skip to primary navigation"
+  skip_content: "Skip to content"
+  skip_footer: "Skip to footer"
+  menu: "Menu"
+  search: "Search"
+  site_search: "Site Search"
+  results_found: "Result(s) found"
+  search_placeholder_text: "Enter your search term..."
+  home: "Home"
+  newer: "Newer"
+  older: "Older"
+  email: "Email"
+  subscribe: "Subscribe"
+  read_more: "Read More"
+  posts: "Posts"
+  page: "Page"
+  of: "of"
+  min_read: "min read"
+  present: "Present"
+  cv_awards: "Awards"
+  cv_summary_contact: "Contact"
+  cv_summary_contact_email: "Email"
+  cv_summary_contact_phone: "Phone"
+  cv_summary_contact_website: "Website"
+  cv_location: "Location"
+  cv_education: "Education"
+  cv_education_courses: "Courses"
+  cv_interests: "Interests"
+  cv_languages: "Languages"
+  cv_publications: "Publications"
+  cv_references: "References"
+  cv_skills: "Skills"
+  cv_volunteer: "Volunteer"
+  cv_work: "Work"
+
+
+navigation_pages:
+  - about.md
+  - cv.md
+
+google_fonts:
+  - name: "Atkinson Hyperlegible"
+    weights: "400,700"
+  
+# The resource from “https://fonts.googleapis.com/css?family=Atkinson+Hyperlegible+Regular:400,400i,700,700i
+#|Atkinson+Hyperlegible+Bold:400,400i,700,700i
+#|Atkinson+Hyperlegible+Italic:400,400i,700,700i
+#|Atkinson+Hyperlegible+Bold+Italic:400,400i,700,700i” 
+#was blocked due to MIME type (“text/html”) mismatch (X-Content-Type-Options: nosniff).
