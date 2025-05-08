@@ -1,7 +1,5 @@
 ---
-layout: page
+layout: cv
 title: Resume
 permalink: /resume/
 ---
-
-Resume will be here!

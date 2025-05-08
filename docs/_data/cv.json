@@ -1,0 +1,150 @@
+{
+    "basics": {
+      "name": "Vanessa Dickerson",
+      "label": "Software Engineering Student",
+      "image": "../images/vanessaheadshot(1).jpg",
+      "email": "contact@vanessacodes.com",
+      "url": "https://blog.vanessacodes.com",
+      "summary": "Howdy! I'm Vanessa Dickerson, a junior majoring in computer science and minoring in statistics at Texas A&M University. I currently work in software engineering at a civil engineering firm. I'm passionate about serving and advocating for my community, developing new and innovative solutions to unsolved problems, and optimizing my life.",
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "vanessa-dickerson",
+          "url": "https://www.linkedin.com/in/vanessa-dickerson"
+        },
+        {
+          "network": "GitHub",
+          "username": "V-Dickerson",
+          "url": "https://github.com/V-Dickerson"
+        },
+        {
+          "network": "Website",
+          "username": "Vanessa Codes",
+          "url": "https://blog.vanessacodes.com"
+        }
+      ]
+    },
+    "work": [
+    {
+        "name": "The Cigna Group",
+        "position": "Incoming TecDP Intern",
+        "url": "",
+        "startDate": "2025-05-19",
+        "endDate": "Future"
+    },
+      {
+        "name": "Torres & Associates",
+        "position": "Web Application Development Intern",
+        "url": "",
+        "startDate": "2024-05-13",
+        "endDate": "",
+        "summary": "Created and deployed full-stack progressive web applications using cutting-edge technologies, and built, architected, and deployed numerous cloud systems currently in production in my community.",
+        "highlights": [
+          "Developed a Flood Early Warning System application from the ground up for the City of Bryan, currently in deployment on AWS Amplify",
+          "Designed a scalable, well-tested, and stateless alert system that near instantly messages the appropriate users over AWS SNS based on dynamic gauge thresholds and alert statuses",
+          "Created SQL schemas, backend API architecture, and React-based frontends for data retrieval, visualisation, and client interaction",
+          "Integrated cloud-based architecture, utilizing AWS S3 buckets for image retrieval and upload, Auth0 authentication linking to database permissions, and integrations with external vendors"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Texas A&M University",
+        "url": "",
+        "area": "Computer Science",
+        "studyType": "Bachelor of Science",
+        "startDate": "2022-08-01",
+        "endDate": "2026-05-01",
+        "score": "3.57",
+        "courses": [
+          "Foundations of Software Engineering",
+          "Programming Languages",
+          "Cloud Computing",
+          "Machine Learning",
+          "Analysis & Design of Algorithms",
+          "Intro to Computer Systems"
+        ]
+      }
+    ],
+    "volunteer": [
+        {
+          "organization": "Transcend, Texas A&M University",
+          "position": "President",
+          "url": "",
+          "startDate": "2024-05-01",
+          "endDate": "",
+          "summary": "Led advocacy and information delivery for transgender students at TAMU.",
+          "highlights": [
+            "Collaborated with faculty and clubs to deliver transition resources",
+            "Engaged in activism to combat anti-trans decisions alongside the Queer Empowerment Council"
+          ]
+        }
+      ],
+    "skills": [
+      {
+        "name": "Software Engineering",
+        "keywords": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "React",
+          "PostgreSQL",
+          "Flask",
+          "CI/CD",
+          "Agile"
+        ]
+      },
+      {
+        "name": "Cloud & Infrastructure",
+        "keywords": [
+          "AWS Amplify",
+          "AWS S3",
+          "AWS RDS",
+          "AWS SNS",
+          ".NET",
+          "Azure"
+        ]
+      },
+      {
+        "name": "Machine Learning",
+        "keywords": [
+          "Neural Networks",
+          "Model Deployment",
+          "Data Science"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Native speaker"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Is-It-Phishy",
+        "startDate": "2024-04-01",
+        "endDate": "2024-05-01",
+        "description": "A neural network-powered URL phishing detector integrated with an interactive frontend game.",
+        "highlights": [
+          "Built a phishing URL detector with 95% accuracy using a neural network",
+          "Developed Flask API to bridge model and frontend",
+          "Created React/NextJS webapp for interactive play"
+        ],
+        "url": ""
+      },
+      {
+        "name": "NeoNeoPets (Aggie Coding Club)",
+        "startDate": "2022-09-01",
+        "endDate": "2023-01-01",
+        "description": "A .NET cloud-based webapp built to simulate a nostalgic online pet experience with modern tech.",
+        "highlights": [
+          "Led team as Head Project Manager",
+          "Architected project from scratch and oversaw development",
+          "Used Git, Azure, and .NET for robust cloud-hosted experience"
+        ],
+        "url": ""
+      }
+    ]
+  }
+  
