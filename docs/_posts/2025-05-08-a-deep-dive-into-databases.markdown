@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 <p class="lead">
-Within my work, I've been working with databases daily for a little over the last year now.
+Through my job, I've been working with databases daily for a little over the last year now.
 </p>
 
 ---
@@ -22,7 +22,7 @@ Databases were just this mystical big-tech buzz word to me.
 I eventually got to the point of learning to build APIs and host a server.  
 I wrote an application that communicated with a Flask API that would return predictions from a machine learning model I trained to predict whether or not a link was a phishing attempt.
 
-> At its launch, it worked in a very inoptimal way — it would load Parquet files from local storage and choose a random value.
+> At its launch, it worked in a very suboptimal manner — it would load Parquet files from local storage and choose a random value.
 
 ---
 
@@ -54,7 +54,7 @@ My goal is to start simple, and document my learning process from 0 to 100 — i
 > Will I implement sharding?  
 > Will I ever not shudder at introductory concepts from Computer Systems?
 
-Find out with me! 🙂
+Find out with me! :)
 
 To christen my journey, I'll start with **"Level 0"** as described in DDIA and explain how it works.
 
